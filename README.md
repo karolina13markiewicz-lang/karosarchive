@@ -33,14 +33,10 @@ In de les zijn we aan de slag gegaan met schetsen. Hierbij heb ik lijnen, vierka
 In de les hebben we een lelijke pagina in HTML gemaakt. Hiervoor heb ik een bestaande code gebruikt en de opdracht stap voor stap gevolgd. Ik heb de structuur een beetje aangepast, omdat ik het zo overzichtelijker vond. Dit ging vrij makkelijk, omdat ik de basis nog kende van de vorige blokken. De pagina was expres lelijk gemaakt, zodat we deze later met de basis van HTML en CSS mooier kunnen maken.
 
 ![codepenoefening1](readme-images/CodePenOefening1.png) 
-
-![codepenoefening2](readme-images/CodePenOefening2.png) 
-
-![codepenoefening3](readme-images/CodePenOefening3.png) 
-
-![codepenoefening4](readme-images/CodePenOefening4.png) 
-
-![codepenoefening5](readme-images/CodePenOefening5.png) 
+![CodePenoefening2](readme-images/CodePenOefening2.png) 
+![CodePenoefening3](readme-images/CodePenOefening3.png) 
+![CodepenOefening4](readme-images/CodePenOefening4.png) 
+![CodepenOefening5](readme-images/CodePenOefening5.png) 
 
 Dit is hoe mijn pagina eerst eruitzag, tijdens de les ging ik stap voor stap mee om het mooier te maken met basis html en css. Hier heb ik geleerd hoe belangrijk spacing is, hover, kleur aangeven, andere font gebruiken en hoe je een form moet maken. 
 
