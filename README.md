@@ -33,8 +33,8 @@ In de les zijn we aan de slag gegaan met schetsen. Hierbij heb ik lijnen, vierka
 In de les hebben we een lelijke pagina in HTML gemaakt. Hiervoor heb ik een bestaande code gebruikt en de opdracht stap voor stap gevolgd. Ik heb de structuur een beetje aangepast, omdat ik het zo overzichtelijker vond. Dit ging vrij makkelijk, omdat ik de basis nog kende van de vorige blokken. De pagina was expres lelijk gemaakt, zodat we deze later met de basis van HTML en CSS mooier kunnen maken.
 
 ![codepenoefening1](readme-images/CodePenOefening1.png) 
-![CodePenoefening2](readme-images/CodePenOefening2.png) 
-![CodePenoefening3](readme-images/CodePenOefening3.png) 
+![CodePenoefening2](readme-images/CodePenoefening2.png) 
+![CodePenoefening3](readme-images/CodePenoefening3.png) 
 ![CodepenOefening4](readme-images/CodePenOefening4.png) 
 ![CodepenOefening5](readme-images/CodePenOefening5.png) 
 
