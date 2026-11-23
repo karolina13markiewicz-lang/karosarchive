@@ -35,7 +35,7 @@ In de les hebben we een lelijke pagina in HTML gemaakt. Hiervoor heb ik een best
 ![codepenoefening1](readme-images/CodePenOefening1.png) 
 ![CodePenoefening2](readme-images/CodePenoefening2.png) 
 ![CodePenoefening3](readme-images/CodePenoefening3.png) 
-![CodepenOefening4](readme-images/CodePenOefening4.png) 
+![CodepenOefening4](readme-images/CodepenOefening4.png) 
 ![CodepenOefening5](readme-images/CodePenOefening5.png) 
 
 Dit is hoe mijn pagina eerst eruitzag, tijdens de les ging ik stap voor stap mee om het mooier te maken met basis html en css. Hier heb ik geleerd hoe belangrijk spacing is, hover, kleur aangeven, andere font gebruiken en hoe je een form moet maken. 
