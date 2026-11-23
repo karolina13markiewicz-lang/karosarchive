@@ -28,8 +28,7 @@ In de les zijn we aan de slag gegaan met schetsen. Hierbij heb ik lijnen, vierka
 ![vierkanten](readme-images/vierkanten.jpeg)
 ![schermen](readme-images/schermen.jpeg)
 
-### 1. Een lelijke HTML pagina maken
-
+### Deepdive - Praktische CSS
 In de les hebben we een lelijke pagina in HTML gemaakt. Hiervoor heb ik een bestaande code gebruikt en de opdracht stap voor stap gevolgd. Ik heb de structuur een beetje aangepast, omdat ik het zo overzichtelijker vond. Dit ging vrij makkelijk, omdat ik de basis nog kende van de vorige blokken. De pagina was expres lelijk gemaakt, zodat we deze later met de basis van HTML en CSS mooier kunnen maken.
 
 ![codepenoefening1](readme-images/CodePenOefening1.png) 
@@ -50,3 +49,61 @@ Ik vond het een fijne opdracht om de basis weer terug te oefenen.
 ![lelijkepagina2](readme-images/lelijke%20pagina2.png)
 ![lelijkepagina3](readme-images/lelijke%20pagina3.png)
 
+### Deepdive - CSS: fonts met kleur en effecten 
+Voor de voorbereiding moesten we eerst een stukje tekst namaken. Hierbij moesten we een lettertype toevoegen en de eerste letter van de tekst een andere kleur geven 
+
+![Oefening1](readme-images/Oefening1.png)
+![oefening1code](readme-images/oefening1code.png)
+
+Daarna moesten we de CSS aanpassen om de twee posters zo veel mogelijk op de voorbeelden te laten lijken.
+![oefening2](readme-images/oefening2.png)
+
+### Sprint 1
+In de les hebben we gezamenlijk teksten gelezen en gekeken wat een digital garden eigenlijk is. 
+
+Later in de les gingen we 2 websites analyseren en kijken welke het meest voldoet aan de voorwaarden. Iedereen had 2 websites en uit alle 8 gingen we er een uitkiezen Dit opdracht liet mij zien aan welke voorwaarden moet ik opletten. 
+
+![tweewebsites](readme-images/tweewebsites.jpeg)
+
+Uiteindelijk hebben we de website die Sam had gekozen uitgekozen. Die had het meeste voorwaarden. 
+
+### Check out
+Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+
+Een digital garden is een website waar je je eigen ideeën en interesses kunt delen. Je kunt de inhoud steeds aanpassen en verbeteren. Ook kunnen anderen feedback geven. Het hoeft dus niet meteen perfect te zijn. Bij een normale website is alles meestal al uitgewerkt en staat de inhoud meer vast.
+
+Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+Een website is 'webby' als deze fluïde, adaptief, interactief, toegankelijk, volwassen, expressief en verrassend is. Ik vind websites vooral inspirerend als ze interactief, expressief en verrassend zijn. Ik vind het leuk als een website iets bijzonders heeft en je nieuwsgierig maakt om verder te kijken.
+
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
+
+Ik wil me focussen op vinylplaten en muziek. Muziek is een groot deel van mijn leven en ik vind het leuk om vinylplaten te verzamelen. Ik wil een plek maken waar ik mijn favoriete platen, albumcovers en artiesten kan delen. Ook wil ik vertellen waarom bepaalde albums mij aanspreken. Het lijkt me leuk om mijn website een eigen sfeer te geven en te experimenteren met kleuren, afbeeldingen en interactieve elementen.
+
+### Voorbereiding presentatie
+
+Ik heb 50 beelden verzameld die af en toe wel letterlijk zijn maar ook niet om die te kunnen presenteren en beetje het idee geven wat ik met mijn website wil uitstralen. Hierbij heb ik gekeken naar de kleuren, vormen, het vibe zelf en naar de typografie. Ook gewoon iets wat ik zelf aesthetic vind en zou misschien willen toepassen. 
+
+Ik heb dit gedaan op pinterest https://nl.pinterest.com/sthkaro/karos-archive/ 
+ 
+Ook wil ik inspiratie houden van de platen die ik thuis zelf heb en van mijn kamer omdat ik die estetisch vind en passend bij mijn onderwerp.
+
+### Deepdive  Light & Dark theme 
+
+Als opdracht moesten we zich verdiepen in light&dark theme. Door dit beter te begrijpen. 
+
+![oefening1d&l](readme-images/oefening1%20d&l.png)
+![oefening1d&l2](readme-images/oefening1%20d&l2.png)
+
+### Visual research
+
+Om beter idee te krijgen over de visual van mijn website heb ik een visual research gedaan. Ik moest het niet zo cliche houden en wat breder denken. Ik heb foto's onderzocht en gekeken wat ik wil mee uitstralen. 
+
+Mijn gekozen sfeerwoorden: Dromerig, eigen, creatief, zelfsprekend 
+
+Visual research te zien op: https://miro.com/app/board/uXjVEPuW9bg=/?share_link_id=478609892762 Naam Karolina. 
+
+Ook heb ik vervolgens crazy8 gemaakt om mijn idee uit te werken en om idee te verzamelen. Ik pobeerde elke schets anders te houden zodat ik breder kon denken. 
+
+![crazy81](readme-images/Crazy81.jpeg)
+![crazy82](readme-images/Crazy82.jpeg)
