@@ -139,3 +139,28 @@ Vervolgens heb ik geoefend met de animaties met property. Dit vond ik nog best w
 ![Oefeninganimeren](readme-images/Oefeninganimeren.png)
 ![oefeninganimeren2](readme-images/oefeninganimeren2.png)
 
+Ook heb ik geoefend met afbeelding responsive maken omdat het een belangrijke onderdeel is van een werkende pagina. 
+Dit ga ik zeker toevoegen in mijn website. 
+
+![responsive](readme-images/responsive.png)
+![Runningdarkmode](readme-images/Runningdarkmode.png)
+![Runninglightmode](readme-images/Runninglightmode.png) 
+
+
+###  Meet the properties Grid
+
+Ik heb grid geoefend, ik heb niet alle opdrachten gedaan maar heb gekeken welke ik waarschijnlijk zou willen gebruiken en die heb ik toegepast. 
+
+![grid1](readme-images/grid1.png)
+![grid2](readme-images/grid2.png)
+![grid3](readme-images/grid3.png)
+![grid4](readme-images/grid4.png)
+
+
+### Bi weekly geek 
+In de klas hebben we gekeken wat eigenlijk internet is en daar paar stellingen over beantwoord. Vervolgens moesten we zelf vragen bedenken en een andere groepje moest die beantworden. 
+
+![bigeek](readme-images/bigeek.png)
+![bigeek2](readme-images/bigeek2.png)
+
+
