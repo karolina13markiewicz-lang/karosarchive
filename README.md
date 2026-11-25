@@ -107,3 +107,35 @@ Ook heb ik vervolgens crazy8 gemaakt om mijn idee uit te werken en om idee te ve
 
 ![crazy81](readme-images/Crazy81.jpeg)
 ![crazy82](readme-images/Crazy82.jpeg)
+
+### Check out 
+
+Leg uit waar het Visual Research in 3 stappen naartoe werkt
+
+1 Eerst beschrijf je welk gevoel iets bij je oproept.
+
+2 Daarna vertaal je dat gevoel naar een abstract beeld.
+
+3 Als laatste gebruik je dit als inspiratie om zelf nieuwe ideeen te bedenken.
+
+Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+
+Mijn Garden gaat over vinylplaten en muziek en hoe muziek bepaalde gevoelens en herinneringen kan oproepen. Ik wil dit laten zien met foto's van mijn platen, albumcovers, korte teksten en misschien ook geluid.
+
+Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+
+Ik zou het liefst het idee met de dvd speler en de discs verder willen onderzoeken. Het lijkt me leuk om te kijken hoe ik dit idee kan aanpassen naar vinylplaten en hoe ik dit op mijn website kan gebruiken. 
+
+### Deepdive Kleuren & Gradients
+
+Als opdracht hebben we gekregen om met gradients te oefenen ik heb dit opdracht uitgevoerd en heb nu een betere beeld hoe het gemaakt zou moeten worden. Hoogwaarschijnlijk wil ik ergens gradients gebruiken als toevoeging en om de website minder plat te maken. 
+
+![oefeninggradients](readme-images/oefeninggradients.png)
+![oefeninggradients2](readme-images/oefeninggradients2.png)
+![oefeninggradients3](readme-images/oefeninggradients3.png)
+
+Vervolgens heb ik geoefend met de animaties met property. Dit vond ik nog best wel lastig. Ik zou wel aniamtie willen gebruiken in mijn website maar ik weet niet precies of het deze gaat zijn. 
+
+![Oefeninganimeren](readme-images/Oefeninganimeren.png)
+![oefeninganimeren2](readme-images/oefeninganimeren2.png)
+
