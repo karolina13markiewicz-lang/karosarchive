@@ -179,3 +179,13 @@ Ik wil mijn website testen op verschillende schermen, zoals een laptop en telefo
 Mijn Garden gaat over vinylplaten en muziek. Ik wil mijn website persoonlijk en creatief maken, met foto's van mijn platen en albumcovers. Ook wil ik experimenteren met kleuren en interactieve onderdelen. Mijn website moet makkelijk te gebruiken zijn en er goed uitzien op verschillende schermen.
 
 
+### Continuatie Visual Research 
+
+Op basis van mijn verzamelde ideeen heb ik een colorpalette gemaakt. HIk heb voor welle kleuren gekozen, hoogwaarschijnlijk als accenten kleuren. Ik heb rekening mee gehouden dat de website ook een dark&light mode moet hebben. Ik heb voor deze kleuren gekozen omdat ik persoonlijk vind dat ik ook een ''velle'' persoon ben en dit past bij mij en mijn onderwerp. 
+
+![colorlight](readme-images/colorlight.png) 
+
+Ik heb twee fonts gekozen die ik graag zou willen gebruiken. Als main/header font heb ik BlahBlah gekozen, omdat het een beetje speels en orgineel is en ik denk dat het bij mijn design gaat passen. Voor de overige teksten heb ik voor Seabass Variable gekozen, die is wat simpeler waardoor er balans is tussen de twee fonts. 
+
+![font1](readme-images/font1.png)
+![font2](readme-images/font2.png) 
