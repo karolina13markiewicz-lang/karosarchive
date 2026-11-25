@@ -163,4 +163,19 @@ In de klas hebben we gekeken wat eigenlijk internet is en daar paar stellingen o
 ![bigeek](readme-images/bigeek.png)
 ![bigeek2](readme-images/bigeek2.png)
 
+### Check out 
+# Check-out
+
+### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+Een website wordt lelijk als alles door elkaar staat en er weinig overzicht is. Bijvoorbeeld als kleuren niet bij elkaar passen, teksten te dicht op elkaar staan of afbeeldingen niet goed geplaatst zijn. Dit kun je verbeteren door meer ruimte te gebruiken, kleuren op elkaar af te stemmen en alles netjes te verdelen.
+
+### Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Ik wil mijn website testen op verschillende schermen, zoals een laptop en telefoon. Daarna ga ik mijn CSS aanpassen zodat alles goed op het scherm past.
+
+### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulaire?
+
+Mijn Garden gaat over vinylplaten en muziek. Ik wil mijn website persoonlijk en creatief maken, met foto's van mijn platen en albumcovers. Ook wil ik experimenteren met kleuren en interactieve onderdelen. Mijn website moet makkelijk te gebruiken zijn en er goed uitzien op verschillende schermen.
+
 
