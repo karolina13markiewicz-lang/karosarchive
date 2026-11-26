@@ -194,5 +194,5 @@ Ik heb twee fonts gekozen die ik graag zou willen gebruiken. Als main/header fon
 
 Ik heb 5 schetsen gemaakt, ik probeerde om te spelen met kleuren om het wat meer leven te geven. Mijn schetsen zijn gebaseerd op mijn crazy 8. Ik heb uiteindelijk gekozen voor schets 3 om die verder uit te werken 
 
-![mob1](readme-images/mob1)
-![mob2](readme-images/mob2)
+![mob1](readme-images/mob1.png)
+![mob2](readme-images/mob2.png)
